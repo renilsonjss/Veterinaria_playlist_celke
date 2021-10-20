@@ -1,0 +1,15 @@
+{
+    "description": "Projeto MVC com Ajax",
+    "authors": [
+        {
+            "name": "Ana Clara, Mariana Guedes, Renilson José, Vivianne Costa"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "App\\": "app",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
